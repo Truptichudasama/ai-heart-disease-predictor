@@ -1,0 +1,11 @@
+venv/
+.venv/
+**pycache**/
+*.pyc
+.env
+.vscode/
+.idea/
+
+Heart_disease.csv
+
+.DS_Store

@@ -1,0 +1,31 @@
+Feature_Name
+risk_score
+Age_Index
+GenHealth_Poor
+Sex
+GenHealth_Fair
+GenHealth_Good
+chronic_count
+Stroke
+GenHealth_Very good
+KidneyDisease
+Diabetic_Yes
+PhysicalHealth
+Race_White
+AlcoholDrinking
+Race_Black
+DiffWalking
+total_unhealthy_days
+Smoking
+SkinCancer
+BMI_Risk
+BMI_Category
+BMI
+SleepTime
+Race_Asian
+Race_Hispanic
+Asthma
+MentalHealth
+PhysicalActivity
+Race_Other
+Diabetic_Yes (during pregnancy)
